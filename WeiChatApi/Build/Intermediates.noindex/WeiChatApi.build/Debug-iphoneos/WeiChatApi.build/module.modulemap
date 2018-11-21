@@ -1,0 +1,6 @@
+framework module WeiChatApi {
+  umbrella header "WeiChatApi.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/mac/Desktop/MySDK/WeiChatApi/Build/Products/Debug-iphoneos/WeiChatApi.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FitScreen.h",
+          'external-contents': "/Users/mac/Desktop/MySDK/WeiChatApi/WeiChatApi/FitScreen.h"
+        },
+        {
+          'type': 'file',
+          'name': "WeiChatApi-Swift.h",
+          'external-contents': "/Users/mac/Desktop/MySDK/WeiChatApi/Build/Products/Debug-iphoneos/WeiChatApi.framework/Headers/WeiChatApi-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "WeiChatApi.h",
+          'external-contents': "/Users/mac/Desktop/MySDK/WeiChatApi/WeiChatApi/WeiChatApi.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mac/Desktop/MySDK/WeiChatApi/Build/Products/Debug-iphoneos/WeiChatApi.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mac/Desktop/MySDK/WeiChatApi/Build/Intermediates.noindex/WeiChatApi.build/Debug-iphoneos/WeiChatApi.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
